@@ -260,6 +260,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Swift Book em Português(em tradução)](https://github.com/AcademyIFCE/Swift-Book)
 - [Learn Swift - Aidan Finn](https://www.aidanf.net/learn-swift)
 
+
 ## Canais no Youtube
  
 - [Attekita Dev [🇧🇷]](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
